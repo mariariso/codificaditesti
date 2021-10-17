@@ -1,0 +1,17 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<docu>
+    <element>
+        <child>
+        </child>
+        <!--Ho aggiunto child come elemento figlio di element.-->
+    </element>
+    <sibling>
+    </sibling>
+    <!--Ho aggiunto sibling come elemento fratello di element.-->
+    <nowell>
+        <over>
+        </over>
+    </nowell> 
+    <!--Ho annidato correttamente gli elementi che erano sovrapposti.
+    Ho corretto il tag di chiusura noWell poichè non era uguale a quello di apertura.-->
+</docu>
