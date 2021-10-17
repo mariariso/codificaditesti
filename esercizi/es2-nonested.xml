@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<noNested>
+    <nested>
+        questo elemento è annidato correttamente
+    </nested>
+    <nogood>
+        <error>
+            questo elemento non è annidato correttamente
+    </nogood>
+        </error>
+</noNested>
