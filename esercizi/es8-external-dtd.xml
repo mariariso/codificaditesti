@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "./es5-dtd.dtd">
+
+<TEI>
+    <header>Intestazione</header>
+    <facsimile>Testo</facsimile>
+    <text>Testo</text>
+    <text>Testo</text>
+</TEI>
