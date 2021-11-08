@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_lite.dtd">
+<TEI xmlns="http://www.teic.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Versione elettronica di Cenerentola</title>
+                <respStmt>
+                    <resp>Conversione TEI a cura di</resp>
+                    <name>Maria Riso</name>
+                </respStmt>    
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Università di Pisa</publisher>
+                <date>2021-11-05</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Cenerentola</title>
+                    <author>Fratelli Grimm</author>
+                    <date>1800</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>  
+        <body>
+            <div n="1">
+                <head>Cenerentola</head>
+                <pb n="1" />
+                <p>
+                    La moglie di un ricco si ammalò e, quando sentì avvicinarsi la fine, 
+                    chiamò al capezzale la sua unica figlioletta e le disse: 
+                    "Sii sempre docile e buona, così il buon Dio ti aiuterà e io ti guarderò dal cielo e ti sarò vicina." 
+                    Poi chiuse gli occhi e morì.
+                </p>
+                <p>     
+                    La fanciulla andava ogni giorno alla tomba della madre, piangeva ed era sempre docile e buona.
+                    La neve ricoprì la tomba di un bianco drappo, e quando il sole l'ebbe tolto, l'uomo prese moglie di nuovo.
+                    La donna aveva due figlie che portò con sè in casa, ed esse erano belle e bianche di viso, ma brutte e nere di cuore. 
+                </p>
+                <p>
+                    Per la figliastra incominciarono tristi giorni.
+                    "Che vuole quella buona a nulla in salotto?" esse dicevano. 
+                    "Chi mangia il pane deve guadagnarselo: fuori, sguattera!" 
+                    Le presero i suoi bei vestiti, le diedero da indossare una vecchia palandrana grigia e la condussero in cucina deridendola. 
+                    Lì doveva sgobbare per bene: si alzava prima che facesse giorno, portava l'acqua, accendeva il fuoco, cucinava e lavava. 
+                    Per giunta le sorelle gliene facevano di tutti i colori, la schernivano e le versavano ceci e lenticchie nella cenere, sicché? doveva raccoglierli a uno a uno. 
+                    La sera, quando era stanca, non andava a letto, ma doveva coricarsi nella cenere accanto al focolare. 
+                    E siccome era sempre sporca e impolverata, la chiamavano Cenerentola.
+                </p>
+                <p>
+                    Un giorno, il padre volle recarsi alla fiera e chiese alle due figliastre che cosa dovesse portare loro. 
+                    "Bei vestiti," disse la prima. "Perle e gemme," disse la seconda. 
+                    "E tu, Cenerentola," disse egli, "che cosa vuoi?" 
+                    "Babbo, il primo rametto che vi urta il cappello sulla via del ritorno," rispose Cenerentola.
+                    Così egli comprò bei vestiti, perle e gemme per le due figliastre; e sulla via del ritorno, mentre cavalcava per un verde boschetto, un ramo di nocciolo lo sfiorò e gli fece cadere il cappello. 
+                    Allora egli colse il rametto e quando giunse a casa diede alle due figliastre quello che avevano chiesto, e a Cenerentola diede il ramo di nocciolo. 
+                    Cenerentola lo prese, andò a piantarlo sulla tomba della madre, e pianse tanto che le lacrime l'innaffiarono. 
+                    Così crebbe e divenne un bell'albero.
+                    Cenerentola ci andava tre volte al giorno, piangeva e pregava e ogni volta si posava sulla pianta un uccellino che le dava ciò che aveva desiderato.
+                </p>
+                <p>
+                    Ora avvenne che il re diede una festa che doveva durare tre giorni, perché suo figlio potesse scegliersi una sposa. 
+                    Anche le due sorellastre erano invitate, così chiamarono Cenerentola e dissero: 
+                    "Pettinaci, spazzola le scarpe e assicura le fibbie: andiamo a ballare alla festa del re." 
+                    Cenerentola ubbidì ma piangeva, perché anche lei sarebbe andata volentieri al ballo, e pregò la matrigna di accordarle il permesso. 
+                    "Tu, Cenerentola," disse questa, "non hai niente da metterti addosso, non sai ballare, e vorresti andare a nozze!" 
+                    Ma Cenerentola insisteva e la matrigna finì col dirle: "Ti rovescerò nella cenere un piatto di lenticchie e se in due ore le sceglierai tutte, andrai anche tu." 
+                </p>      
+            </div>
+        </body>
+    </text>
+</TEI>
