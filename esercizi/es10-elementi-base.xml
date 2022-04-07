@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_lite.dtd">
+
+<TEI xmlns="http://www.teic.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le figure retoriche in digitale</title>
+                <respStmt>
+                    <resp>A cura di</resp>
+                    <name>Maria Riso</name>
+                </respStmt>    
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Università di Pisa</publisher>
+                <date when="2022-03">Marzo 2022</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Le figure retoriche</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div>
+                <p>La similitudine è sicuramente una delle figure retoriche più comuni e più facili da individuare. 
+                Che cos’è una similitudine? È un processo retorico che mira a chiarire un concetto 
+                mettendolo in relazione con un altro attraverso un parallelismo. 
+                Capire quando siamo di fronte a una similitudine è semplice, 
+                poiché utilizza sempre questi nessi: come, così ... come, tale ... quale, come ... tale, ecc. 
+                In <ref target="#nota">nota</ref> un esempio.</p>
+            </div>
+
+            <note xml:id="nota">ESEMPIO: <name>Lucia</name>, <rs>tuo fratello</rs> è furbo come una volpe!</note>
+
+            <div xml:id="lista">
+                <list type="gloss">
+                    <item>
+                        <label><term>Allitterazione</term></label>
+                        <gloss>Ripetizione di una lettera (suono) o di un gruppo di lettere all’inizio o all’interno di più parole.</gloss>
+                    </item>
+                    <item>
+                        <label><term>Assonanza</term></label>
+                        <gloss>Due parole sono legate da assonanza quando nella loro parte finale 
+                        (la parte che va dalla vocale tonica in poi) presentano le stesse vocali, ma diverse consonanti.</gloss>
+                    </item>
+                    <item>
+                        <label><term>Consonanza</term></label>
+                        <gloss>Due parole sono legate da consonanza quando nella loro parte finale 
+                        (la parte che va dalla vocale tonica in poi) presentano le stesse consonanti, ma diverse vocali.</gloss>
+                    </item>
+                    <item>
+                        <label><term>Onomatopea</term></label>
+                        <gloss>Una parola o una frase che riproduce il suono o il rumore di una cosa o il verso di un animale.</gloss>
+                    </item>
+                    <item>
+                        <label><term>Paranomasia</term></label>
+                        <gloss>Accostamento di due parole che presentano suoni simili ma significato diverso.</gloss>
+                    </item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>
